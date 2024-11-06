@@ -25,10 +25,7 @@ function Chart({ coinId }: ChartProps) {
       refetchInterval: 10000,
     }
   );
-  return (
-  <>
-  </>
-  );
+  return <></>;
+}
 
-  
-  export default Chart;
+export default Chart;
